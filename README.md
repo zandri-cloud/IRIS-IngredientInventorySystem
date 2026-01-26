@@ -1,4 +1,3 @@
-Absolutely! Here's a **proper, clean, ready-to-use README.md** tailored for your IRIS project. You can copy it exactly as-is into your repo’s root folder. I also cleaned up formatting for clarity and professionalism:
 
 ---
 
